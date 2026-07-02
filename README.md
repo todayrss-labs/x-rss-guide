@@ -60,11 +60,11 @@ Example sources:
 - [xAI](https://cn.todayrss.com/column/Pf9KeL3MWw)
 - [Mistral AI](https://cn.todayrss.com/column/v2fqS85dYX)
 - [Hugging Face](https://cn.todayrss.com/column/gACh700Xo0)
-- Perplexity
-- Cursor
-- Cognition
-- LangChain
-- LlamaIndex
+- [Perplexity](http://cn.todayrss.com/column/vgAdYhhmrg)
+- [Cursor](http://cn.todayrss.com/column/J4Gzg3y6YO)
+- [Cognition](http://cn.todayrss.com/column/Sa4DKbbsAO)
+- [LangChain](http://cn.todayrss.com/column/xf45hmiJiG)
+- [LlamaIndex](http://cn.todayrss.com/column/vpLoeFlWWm)
 
 Typical workflow:
 
