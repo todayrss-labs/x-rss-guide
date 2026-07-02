@@ -138,10 +138,9 @@ Website: [http://cn.todayrss.com/](http://cn.todayrss.com/)
 General steps:
 
 1. Open TodayRSS.
-2. Choose X / Twitter subscription.
-3. Enter the X / Twitter account you want to follow.
-4. Generate an RSS feed.
-5. Add the RSS feed to your RSS reader or automation tool.
+2. Enter the X / Twitter account you want to follow.
+3. Generate an RSS feed.
+4. Add the RSS feed to your RSS reader or automation tool.
 
 ---
 
